@@ -1,8 +1,13 @@
 # flask-graphql
 
-       __|  __|_  )
-       _|  (     /   Works with Ubuntu and Amazon AMI
-      ___|\___|___|
+   ___ _           _                               _       ____  __  
+  / __\ | __ _ ___| | __      __ _ _ __ __ _ _ __ | |__   /___ \/ /  
+ / _\ | |/ _` / __| |/ /____ / _` | '__/ _` | '_ \| '_ \ //  / / /   
+/ /   | | (_| \__ \   <_____| (_| | | | (_| | |_) | | | / \_/ / /___ 
+\/    |_|\__,_|___/_|\_\     \__, |_|  \__,_| .__/|_| |_\___,_\____/ 
+                             |___/          |_|                      
+https://patorjk.com/software/taag/#p=display&f=Cards&t=https%3A%2F%2Fpatorjk.com%2Fsoftware%2Ftaag%2F%23p%3Ddisplay%26f%3DOgre%26t%3DFlask-graphQL
+
 
 flask-graphql is a mini project for me to learn graphql vs restAPI and demonstrate how fast we can develop API both using restAPI and GraphQL using Python Flask.
 
@@ -52,3 +57,10 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Sponsor
+
+       __|  __|_  )
+       _|  (     /   Works with Ubuntu and Amazon AMI
+      ___|\___|___|
+
