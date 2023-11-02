@@ -28,7 +28,11 @@ source test/bin/activate
 # install the required python module
 pip install -r requirements.txt
 
+# clone the repo
+git clone https://github.com/ruangsendiri/flask-graphql.git
+
 # adjust host in index-graphql.py
+cd flask-graphql
 
 # run the api
 python index-graphql.py
