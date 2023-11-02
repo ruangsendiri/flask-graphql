@@ -1,5 +1,9 @@
 # flask-graphql
 
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
 flask-graphql is a mini project for me to learn graphql vs restAPI and demonstrate how fast we can develop API both using restAPI and GraphQL using Python Flask.
 
 ## Installation
