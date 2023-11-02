@@ -1,7 +1,6 @@
 # flask-graphql
 
 🇫​​​​​🇱​​​​​🇦​​​​​🇸​​​​​🇰​​​​​-🇬​​​​​🇷​​​​​🇦​​​​​🇵​​​​​🇭​​​​​🇶​​​​​🇱​​​​​
-##### https://fsymbols.com/generators/carty/
 
 flask-graphql is a mini project for me to learn graphql vs restAPI and demonstrate how fast we can develop API both using restAPI and GraphQL using Python Flask.
 
@@ -57,4 +56,6 @@ Please make sure to update tests as appropriate.
        __|  __|_  )
        _|  (     /   Works with Ubuntu and Amazon AMI
       ___|\___|___|
+
+##### https://fsymbols.com/generators/carty/
 
