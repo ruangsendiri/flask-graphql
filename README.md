@@ -2,8 +2,7 @@
 
 🇫​​​​​🇱​​​​​🇦​​​​​🇸​​​​​🇰​​​​​-🇬​​​​​🇷​​​​​🇦​​​​​🇵​​​​​🇭​​​​​🇶​​​​​🇱​​​​​
 
-https://patorjk.com/software/taag/#p=display&f=Cards&t=https%3A%2F%2Fpatorjk.com%2Fsoftware%2Ftaag%2F%23p%3Ddisplay%26f%3DOgre%26t%3DFlask-graphQL
-
+##### https://fsymbols.com/generators/carty/
 
 flask-graphql is a mini project for me to learn graphql vs restAPI and demonstrate how fast we can develop API both using restAPI and GraphQL using Python Flask.
 
