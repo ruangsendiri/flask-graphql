@@ -46,9 +46,9 @@ sudo apt-get install libsqlite3-tcl  tcl8.6-tdbc-sqlite3 xdot
 git clone https://github.com/FredrikKarlssonSpeech/sqlite2dot.git
 
 # generate dot file
-tclsh sqlite2dot.tcl ../../soa/karyawan.db
-tclsh sqlite2dot.tcl ../../soa/absen.db
-tclsh sqlite2dot.tcl ../../soa/masuk.db
+tclsh sqlite2dot.tcl karyawan.db
+tclsh sqlite2dot.tcl absen.db
+tclsh sqlite2dot.tcl masuk.db
 ```
 
 ## Contributing
