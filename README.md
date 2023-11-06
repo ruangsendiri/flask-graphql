@@ -49,6 +49,7 @@ git clone https://github.com/FredrikKarlssonSpeech/sqlite2dot.git
 tclsh sqlite2dot.tcl ../../soa/karyawan.db
 tclsh sqlite2dot.tcl ../../soa/absen.db
 tclsh sqlite2dot.tcl ../../soa/masuk.db
+```
 
 ## Contributing
 
