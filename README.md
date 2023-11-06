@@ -1,6 +1,6 @@
 # 🇫​​​​​🇱​​​​​🇦​​​​​🇸​​​​​🇰​​​​​-🇬​​​​​🇷​​​​​🇦​​​​​🇵​​​​​🇭​​​​​🇶​​​​​🇱​​​​​
 
-flask-graphql is a mini project for me to learn graphql vs restAPI and demonstrate how fast we can develop API both using restAPI and GraphQL using Python Flask.
+Flask-GraphQL is like my little project to figure out GraphQL versus REST API and to show how fast we can whip up APIs using both REST API and GraphQL with good ol' Python Flask.
 
 ## Installation
 
