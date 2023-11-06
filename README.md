@@ -38,6 +38,18 @@ cd flask-graphql
 python index-graphql.py
 ```
 
+## Visualizing
+
+```bash
+# install tcl and graphviz visualizer
+sudo apt-get install libsqlite3-tcl  tcl8.6-tdbc-sqlite3 xdot
+git clone https://github.com/FredrikKarlssonSpeech/sqlite2dot.git
+
+# generate dot file
+tclsh sqlite2dot.tcl ../../soa/karyawan.db
+tclsh sqlite2dot.tcl ../../soa/absen.db
+tclsh sqlite2dot.tcl ../../soa/masuk.db
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
