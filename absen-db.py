@@ -3,7 +3,6 @@ import sqlite3
 conn = sqlite3.connect('absen.db')
 cursor = conn.cursor()
 
-# Buat tabel absensi
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS absensi (
         id INTEGER PRIMARY KEY,
